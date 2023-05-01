@@ -18,7 +18,7 @@
   <hr>
   <br>
   
-  <h5>Step1: git clone: git clone </h5>
+  <h5>Step1: git clone: git clone  https://github.com/sanjai-AK47/Ransomware.git</h5>
   <h5>Step2: chmod +x game.py  </h5>
   <h5>Step3: chmod +x decrypt_ransomware.py</h5>
   <h5>step4: chmod +x encrypt_ransomware.py</h5>
