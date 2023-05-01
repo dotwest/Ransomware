@@ -21,7 +21,7 @@
   <h5>Step1: git clone: git clone </h5>
   <h5>Step2: chmod +x game.py  </h5>
   <h5>Step3: chmod +x decrypt_ransomware.py</h5>
-  <h5>step4: chmod +x excrypt_ransomware.py</h5>
+  <h5>step4: chmod +x encrypt_ransomware.py</h5>
   <hr>
   <br>
   
